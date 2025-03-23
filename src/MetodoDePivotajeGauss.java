@@ -1,10 +1,10 @@
 public class MetodoDePivotajeGauss {
     public static void main(String[] args) {
         double[][] matriz = {
-                {4, 5, 6, 7},
-                {3, 4, 1, 7},
-                {2, 3, 4, 5},
-                {6, 3, 2, 1}
+                {1, 1, -1, 1},
+                {2, 5, -3, 3},
+                {-1, 5, -2, 3},
+                {2, 11, -4, 4}
         };
 
         System.out.println("Matriz Original:");
