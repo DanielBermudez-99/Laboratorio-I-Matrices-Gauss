@@ -1,4 +1,4 @@
-public class Main {
+public class MetodoDePivotajeGauss {
     public static void main(String[] args) {
         double[][] matriz = {
                 {4, 5, 6, 7},
